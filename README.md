@@ -1,5 +1,5 @@
 <h3 align="left">Languages</h3>
-<table align="center">
+<table>
   <tr>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
