@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contact
+https://www.linkedin.com/in/lamine-brahami-b0a6991b0/
