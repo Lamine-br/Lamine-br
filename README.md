@@ -1,6 +1,5 @@
 <h3 align="left">Languages</h3>
 <table align="center">
-  <th>Web Developement</th>
   <tr>
     
     <td>
