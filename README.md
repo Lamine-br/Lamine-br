@@ -2,7 +2,7 @@
 <table>
   <thead>
     <th>Skills</th>
-    <th>Langages</th>
+    <th colspan=4>Langages</th>
   </thead>
   <tr>
     <th>Web developement</th>
