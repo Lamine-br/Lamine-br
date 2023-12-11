@@ -1,4 +1,3 @@
-<h3 align="left">Languages</h3>
 <table>
   <thead>
     <th>Skills</th>
