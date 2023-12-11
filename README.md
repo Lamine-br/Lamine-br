@@ -1,5 +1,9 @@
 <h3 align="left">Languages</h3>
 <table>
+  <thead>
+    <th>Skills</th>
+    <th>Langages</th>
+  </thead>
   <tr>
     <th>Web developement</th>
     <td>
