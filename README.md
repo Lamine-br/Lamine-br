@@ -1,6 +1,7 @@
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages</h3>
 <table align="center">
   <tr>
+    <th>Web Developement</th>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
     </td>
