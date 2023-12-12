@@ -1,7 +1,7 @@
 <table>
   <thead>
     <th>Skills</th>
-    <th colspan=8>Langages</th>
+    <th colspan=10>Langages</th>
   </thead>
   <tr>
     <th>Web Development</th>
@@ -29,13 +29,19 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50">
     </td> 
+    <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="50" width="50">
+    </td> 
+    <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="50" width="50">
+    </td> 
   </tr>
    <tr>
     <th>Mobile Development</th>
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" height="50" width="50">
     </td>
-     <td colspan=7>
+     <td colspan=9>
     </td>
   </tr>
    <tr>
@@ -46,7 +52,7 @@
      <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" width="50">
     </td>
-     <td colspan=6>
+     <td colspan=8>
     </td>
   </tr>
 </table>
