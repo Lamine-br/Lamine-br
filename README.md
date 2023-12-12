@@ -24,6 +24,8 @@
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" width="30">
     </td>
-    
+     <td>
+        <img src="    https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="30">
+    </td>
   </tr>
 </table>
