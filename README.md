@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td>
-            <a href="" >
+            <a href="https://www.linkedin.com/in/lamine-brahami-b0a6991b0/" >
             <img src="https://user-images.githubusercontent.com/74218805/219942623-a1e2387a-846e-4ee5-b25d-1005b934e0a4.png" alt="linkedin" height="30" width="30">
             </a>
     </td>
