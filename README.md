@@ -4,7 +4,7 @@
     <th colspan=6>Langages</th>
   </thead>
   <tr>
-    <th>Web development</th>
+    <th>Web Development</th>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
     </td>
