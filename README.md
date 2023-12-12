@@ -51,4 +51,4 @@
   </tr>
 </table>
 
-<p align="center">Ready to help</p>
+<h3 align="center">Ready to help</h3>
