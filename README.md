@@ -53,7 +53,6 @@
 
 <h3 align="center">Ready to help you with your projects</h3>
 
-<h6>Contact me</h6>
 <table align="center">
   <tr>
     <td>
