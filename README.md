@@ -22,7 +22,7 @@
    <tr>
     <th>Web Development</th>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" width="30">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" width="30">
     </td>
      <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="30">
