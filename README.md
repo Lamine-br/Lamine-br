@@ -52,3 +52,18 @@
 </table>
 
 <h3 align="center">Ready to help you with your projects</h3>
+
+<h6>Contact me</h6>
+<table align="center">
+  <tr>
+    <td>
+            <a href="" >
+            <img src="https://user-images.githubusercontent.com/74218805/219942623-a1e2387a-846e-4ee5-b25d-1005b934e0a4.png" alt="linkedin" height="30" width="30">
+            </a>
+    </td>
+    <td>
+            <a href="jl_brahami@esi.dz" ><img src="https://user-images.githubusercontent.com/74218805/219942942-778dd537-04d9-4bac-9a84-1a3c3d534948.png" alt="gmail" height="30" width="30">
+            </a>
+    </td>
+  </tr>
+</table>
