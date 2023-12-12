@@ -51,4 +51,4 @@
   </tr>
 </table>
 
-<h3 align="center">Ready to help</h3>
+<h3 align="center">Ready to help you with your projects</h3>
