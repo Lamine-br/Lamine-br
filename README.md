@@ -27,7 +27,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50">
     </td> 
     <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" height="50" width="50">
     </td> 
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="50" width="50">
